@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Philadelphia Mountain Biking Association | Feed</title>
+    <description>This is the Wissahickon park feed</description>
+    <link>http://dev.phillymtb.org</link>
+    <item>
+  <title>Unridable - Gonna Be Muddy This Weekend</title>
+<link>/node/176</link>
+<dc:creator>Kris</dc:creator>
+<category>Wissahickon Park</category>
+<guid>176</guid>
+<pubDate>Fri, 05 Mar 2010 17:11:50 -0500</pubDate>
+</item>
+<item>
+  <title>Unridable - Getting Muddy</title>
+<link>/node/175</link>
+<dc:creator>Kris</dc:creator>
+<category>Wissahickon Park</category>
+<guid>175</guid>
+<pubDate>Wed, 03 Mar 2010 21:46:45 -0500</pubDate>
+</item>
+<item>
+  <title>Unridable - It&amp;#039;s gettin&amp;#039; muddy!</title>
+<description>Totally gross.</description>
+<link>/node/174</link>
+<dc:creator>Kris</dc:creator>
+<category>Wissahickon Park</category>
+<guid>174</guid>
+<pubDate>Wed, 03 Mar 2010 21:35:06 -0500</pubDate>
+</item>
+<item>
+  <title>Unridable - Snow and slush</title>
+<description>It really sucks out there, dont bother.
+&amp;nbsp;</description>
+<link>/node/173</link>
+<dc:creator>vegancheesesteak</dc:creator>
+<category>Wissahickon Park</category>
+<guid>173</guid>
+<pubDate>Thu, 25 Feb 2010 21:00:56 -0500</pubDate>
+</item>
+<item>
+  <title>Unridable - Conditions are not good</title>
+<description>Wissahickon conditions are very poor. &amp;nbsp;Please ride a snowboard instead</description>
+<link>/node/149</link>
+<dc:creator>admin_drupal</dc:creator>
+<category>Wissahickon Park</category>
+<guid>149</guid>
+<pubDate>Thu, 11 Feb 2010 00:24:58 -0500</pubDate>
+</item>
+  </channel>
+</rss>
